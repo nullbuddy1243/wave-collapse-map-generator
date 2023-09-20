@@ -1,0 +1,17 @@
+{
+  "name": "wave_collapse_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wavecollapse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table3": "^0.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
